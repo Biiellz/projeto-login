@@ -10,6 +10,7 @@ maiores acima de 1200
 */
 
 @media screen and (min-width: 768px) and (max-width: 992px){
+    /*config tablet*/
 
     body{
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
@@ -17,6 +18,7 @@ maiores acima de 1200
 
     #login{
         width: 80vw;
+        height: 338px;
     }
 
     #img{
@@ -44,6 +46,7 @@ maiores acima de 1200
 
     #login{
         width: 950px;
+        height: 400px;
     }
 
     #img{
@@ -58,6 +61,7 @@ maiores acima de 1200
     }
 
     #form p{
-    font-size: 1.8em;
+    font-size: 1.5em;
+    margin: 20px 0px;
 }
 }
