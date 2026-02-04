@@ -30,6 +30,10 @@ maiores acima de 1200
         width: 60%;
         height: 100%;
     }
+
+    #form p{
+    font-size: 1.3em;
+}
 }
 
 @media screen and (min-width: 992px){
@@ -43,13 +47,17 @@ maiores acima de 1200
     }
 
     #img{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
 
     #form{
-        float: right;
+        float: left;
         width: 50%;
     }
+
+    #form p{
+    font-size: 1.8em;
+}
 }
